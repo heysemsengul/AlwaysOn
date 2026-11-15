@@ -9,7 +9,7 @@
 ![Min Android](https://img.shields.io/badge/Android-8.1%2B-555?style=for-the-badge)
 ![Permissions](https://img.shields.io/badge/Permissions-none-555?style=for-the-badge)
 
-<img src="docs/screenshot.png" alt="AlwaysOn screenshot" width="300">
+<img src="screenshot.png" alt="AlwaysOn screenshot" width="300">
 
 </div>
 
